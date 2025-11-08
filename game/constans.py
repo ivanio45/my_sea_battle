@@ -1,0 +1,9 @@
+FIELDSIZE_DEFAULT = (10, 10)
+EMPTY = ' '
+SHIP = '■'
+DAMAGED = '#'
+MISSED = 'o'
+LINE = '─'
+STICK = '│'
+CROSSING = '┼'
+SHIPS = {1: 4, 2: 3, 3: 2, 4: 1}
